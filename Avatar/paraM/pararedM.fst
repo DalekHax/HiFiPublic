@@ -1,6 +1,6 @@
 name = pararedM
 type = body+head
-scale = 1
+scale = 2
 filename = pararedM/pararedM.fbx
 texdir = pararedM/textures
 joint = jointLeftHand = LeftHand
