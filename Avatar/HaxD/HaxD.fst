@@ -157,3 +157,25 @@ jointIndex = Bottoms = 2
 jointIndex = LeftHandThumb4_end = 78
 jointIndex = LeftEye_end = 87
 jointIndex = LeftLeg = 12
+bs = JawOpen = mouth_open = 0.5
+bs = MouthSmile_R = mouth_corner_in_right = 1
+bs = MouthSmile_L = mouth_corner_in_left = 1
+bs = LipsFunnel = tongue_up = 0.5
+bs = LipsFunnel = mouth_narrow_right = 1
+bs = LipsFunnel = mouth_narrow_left = 1
+bs = LipsPucker = mouth_narrow_right = 1
+bs = LipsPucker = mouth_narrow_left = 1
+bs = LipsLowerDown = lips_mid_lower_down_right = 0.69999999999999996
+bs = LipsLowerDown = lips_mid_lower_down_left = 0.69999999999999996
+bs = LipsLowerClose = lips_lower_in = 1
+bs = Puff = cheek balloon_right = 1
+bs = Puff = cheek balloon_left = 1
+bs = BrowsU_R = brow_outer_up_right = 1
+bs = BrowsU_L = brow_outer_up_left = 1
+bs = BrowsD_R = brow_outer_down_right = 1
+bs = BrowsD_L = brow_outer_down_left = 1
+bs = BrowsU_C = brow_mid_up_right = 0.5
+bs = BrowsU_C = brow_mid_up_left = 0.5
+bs = EyeBlink_L = EyeBlink_L = 1
+bs = EyeBlink_R = EyeBlink_R = 1
+
